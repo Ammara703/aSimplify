@@ -744,6 +744,8 @@ footer {
   height: 40px;
   width: 40px;
   margin-right: 1.2rem;
+  text-align: center;
+  align-content: center;
 }
 .team-card .team-media a i:hover {
   transform: scale(1.2);
